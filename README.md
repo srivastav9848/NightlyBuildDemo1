@@ -1,7 +1,6 @@
 # NightlyBuildDemo1
 
   
-temp vars  
- mdklenln
+nnnn 
  
  
